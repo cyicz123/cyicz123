@@ -22,6 +22,6 @@
 
 网络上见到的 `ixiaoyao`、`爱逍遥`、`cyicz123` 或者 `潇潇雨歇` 的 ID 大部分应该是我（少部分是我弟抢注我的ID）
 
-- Email：edu.cyicz123@outlook.com
+- Email：edu.cyicz123@outlook.com  YueCheng@hqu.edu.cn
 - Github：[cyicz123](https://github.com/cyicz123)
 - 知乎：[cyicz123](https://www.zhihu.com/people/cyicz123.top)
