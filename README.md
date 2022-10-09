@@ -1,7 +1,5 @@
 > ## About me
 
-![头像](https://raw.githubusercontent.com/cyicz123/Picture/main/img/20210622172643.jpg)
-
 * 爱好：去尝试计科新技术、开源、健身、一切有趣的东西
 * 喜欢：芒果、打大乱斗、看lol比赛
 * 讨厌：虚伪的人
